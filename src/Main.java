@@ -19,9 +19,11 @@ public class Main {
         vishalsPhone.answer();
 
         vishalsPhone = new Mobilephone(123456);
-        //vishalsPhone.powerOn();
+        vishalsPhone.powerOn();
         vishalsPhone.callPhone(123456);
         vishalsPhone.answer();
+
+
 
 
     }
